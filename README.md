@@ -1,8 +1,8 @@
-# Blog PHP
+# PHP blog
 
-Blog creado creado con PHP y MySQL. Como desarrollador Web es muy probable que soliciten proyectos de este tipo “CRUD”, en donde podamos crear, leer, actualizar y borrar datos en una base de datos.
+Blog created created with PHP and MySQL. As a Web developer it is very likely that they will request projects of this type "CRUD", where we can create, read, update and delete data in a database.
 
-Un diseño simple con el cual podrían guisarse para futuros proyectos, la intención es dar una idea de como podrían realizarlo y ahorrar tiempo.
+A simple design with which they could be cooked for future projects, the intention is to give an idea of how they could do it and save time.
 
 ## Copyright
 
